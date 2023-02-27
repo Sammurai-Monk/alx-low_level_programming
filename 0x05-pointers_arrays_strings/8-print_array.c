@@ -8,7 +8,7 @@
  * Return: 1 for char 0 anyelse
  */
 
-void print_array(int *a, int *n)
+void print_array(int *a, int n)
 {
 	int j;
 
